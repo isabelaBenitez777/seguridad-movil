@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "UniSabana Auth",
+    "slug": "unisabana-auth",
+    "version": "1.0.0",
+    "scheme": "unisabana-auth",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "ios": {
+      "bundleIdentifier": "co.edu.unisabana.auth"
+    },
+    "android": {
+      "package": "co.edu.unisabana.auth"
+    },
+    "plugins": [
+      "expo-secure-store",
+      "expo-web-browser"
+    ]
+  }
+}
